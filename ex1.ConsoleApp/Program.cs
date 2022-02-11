@@ -14,7 +14,7 @@ namespace ex1.ConsoleApp
             {
                 for (int j = 0; j < largura; j++)
                 {
-                    str = str+"*";
+                    str = str + "*";
                 }
                 str += "\n";
             }
