@@ -1,4 +1,4 @@
-# Exercicios_Presencial_Academia_do_Programador
+# Exercicios Presencial Academia do Programador
 
 1 - Desenhe um retângulo com asteriscos, considere que o primeiro input é a
 largura do retângulo, e o segundo input é a altura.
