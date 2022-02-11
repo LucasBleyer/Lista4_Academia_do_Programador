@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ex1.ConsoleApp
+namespace ex2.ConsoleApp
 {
     internal class Program
     {
