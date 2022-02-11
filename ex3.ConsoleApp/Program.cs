@@ -11,15 +11,15 @@ namespace ex3.ConsoleApp
 
             if (hora_atual >= 5 && hora_atual <= 12)
             {
-                Console.WriteLine("Bom dia!");
+                Console.WriteLine("Bom dia!!!");
             }
             else if (hora_atual >= 13 && hora_atual < 18)
             {
-                Console.WriteLine("Boa tarde!");
+                Console.WriteLine("Boa tarde!!!");
             }
             else if (hora_atual >= 18 && hora_atual <= 23 && hora_atual >= 0 && hora_atual <= 4)
             {
-                Console.WriteLine("Boa noite!");
+                Console.WriteLine("Boa noite!!!");
             }
         }
     }

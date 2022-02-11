@@ -19,7 +19,6 @@ namespace ex1.ConsoleApp
                 str += "\n";
             }
             Console.WriteLine(str);
-            Console.ReadKey();
         }
     }
 }

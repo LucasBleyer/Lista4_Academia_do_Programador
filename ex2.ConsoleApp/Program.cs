@@ -26,7 +26,6 @@ namespace ex2.ConsoleApp
                 str += "\n";
             }
             Console.WriteLine(str);
-            Console.ReadKey();
         }
     }
 }
